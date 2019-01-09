@@ -21,6 +21,7 @@ function divideby5() {
 
 }
 
+number = 10
 
 addby5()
 
