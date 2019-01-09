@@ -1,14 +1,39 @@
-1 + 80 // 81
-60 - 40 // 20
-2 * 3.4 // 6.8 (there's that floating-point arithmetic again...)
-5.0 / 2.5 // 2
 
 var number = 5
 
-number++ // 5... hmmmm
+function addby5() {
+  number += 5
+  
+}
 
-number // 6 -- the number was incremented after it was evaluated
+function subtractby2() {
+  number -= 2
+  
+}
 
-number-- // 6
+function multiplyby2() {
+  number *= 2 
+  
+}
 
-number // 5
+function divideby5() {
+  number /= 5
+  
+}
+
+
+addby5()
+
+console.log(number)
+
+subtractby2()
+
+console.log(number)
+
+multiplyby2()
+
+console.log(number)
+
+divideby5()
+
+console.log(number)
