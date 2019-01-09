@@ -15,3 +15,19 @@ function multiply() {
 function divide() {
   number /= 5
 }
+
+add()
+
+console.log(number)
+
+subtract()
+
+console.log(number)
+
+multiply()
+
+console.log(number)
+
+divide()
+
+console.log(number)
