@@ -3,19 +3,19 @@
 
 var number = 5
 
-function add(number) {
+function add(number + 5) {
   number += 5
 }
 
-function subtract(number) {
+function subtract(number - 2) {
   number -= 2
 }
 
-function multiply(number) {
+function multiply(number * 2) {
   number *= 2
 }
 
-function divide(number) {
+function divide(number / 5) {
   number /= 5
 }
 
