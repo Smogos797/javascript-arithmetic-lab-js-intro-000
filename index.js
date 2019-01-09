@@ -3,34 +3,34 @@
 
 var number = 5
 
-function add5(number) {
+function add(number) {
   number += 5
 }
 
-function subtract2(number) {
+function subtract(number) {
   number -= 2
 }
 
-function multiplyby2(number) {
+function multiply(number) {
   number *= 2
 }
 
-function divideby5(number) {
+function divide(number) {
   number /= 5
 }
 
-add5(number)
+add(number)
 
 console.log(number)
 
-subtract2(number)
+subtract(number)
 
 console.log(number)
 
-multiplyby2(number)
+multiply(number)
 
 console.log(number)
 
-divideby5(number)
+divide(number)
 
 console.log(number)
