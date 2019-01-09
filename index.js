@@ -4,19 +4,19 @@
 var number = 5
 
 function add(number + 5) {
-  number += 5
+  
 }
 
 function subtract(number - 2) {
-  number -= 2
+  
 }
 
 function multiply(number * 2) {
-  number *= 2
+  
 }
 
 function divide(number / 5) {
-  number /= 5
+  
 }
 
 add(number)
