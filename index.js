@@ -38,3 +38,6 @@ console.log(number)
 divideby5()
 
 console.log(number)
+
+parseFloat('80.123999') // 80.123999
+
